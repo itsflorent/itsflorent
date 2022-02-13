@@ -1,13 +1,10 @@
-### Hi there, I'm Florent 👋
-
-
 ## I'm a knowledgeable Python programmer.
 
 - 🔭 I'm working on too many projects at the moment...
 
 ### Stats & Status:
 
-[![](https://discord.c99.nl/widget/theme-1/530110948984356867.png)](https://discord.gg/pycord)
+[![](https://discord.c99.nl/widget/theme-2/530110948984356867.png)](https://discord.gg/pycord)
 
 <!-- [<img align="left" alt="cws | YouTube" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c545.png" />][youtube]
 [<img align="left" alt="cws | Twitter" width="22px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-4.png" />][twitter]
@@ -21,9 +18,3 @@
   <img align="left" alt="itsflorent's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=itsflorent&show_icons=true&hide_border=true&theme=radical" />
 
 </details>
-
- [website]: https://github.com/codewithswastik
-[twitter]: https://twitter.com/codewithswastik
-[youtube]: https://youtube.com/codewithswastik
-[discord]: https://discord.gg/TXF3hBj
-[reddit]: https://www.reddit.com/u/Coder_Swastik
