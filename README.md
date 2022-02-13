@@ -2,7 +2,6 @@
 
 - 🔭 I'm working on too many projects at the moment...
 
-### Stats & Status:
 
 [![](https://discord.c99.nl/widget/theme-2/530110948984356867.png)](https://discord.gg/pycord)
 
