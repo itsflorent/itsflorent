@@ -1,6 +1,6 @@
 ## I'm a knowledgeable Python programmer.
 
-- 🔭 I'm working on too many projects at the moment...
+- 😱 I'm working on too many projects at the moment...
 
 
 [![](https://discord.c99.nl/widget/theme-2/530110948984356867.png)](https://discord.gg/pycord)
