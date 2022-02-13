@@ -8,7 +8,7 @@
 
 
 :zap: GitHub Stats
-<br>
+<br><br>
 <img align="left" alt="itsflorent's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=itsflorent&count_private=true&show_icons=true&theme=dark" />
 
 
