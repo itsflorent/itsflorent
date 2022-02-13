@@ -1,14 +1,11 @@
-### Hi there, I'm Swastik - aka [Swas.py][website] 👋
+### Hi there, I'm Florent 👋
 
 
-## I'm a Student, Youtuber, and a Developer!!
+## I'm a knowledgeable Python programmer.
 
-- 🔭 I’m currently working on [pycord](https://github.com/Pycord-Development/pycord)
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects!
-- ⚡ Fun fact: I am a verified bot developer on discord
+- 🔭 I'm working on too many projects at the moment...
 
-### Connect with me:
+### Stats & Status:
 
 [![](https://discord.c99.nl/widget/theme-1/530110948984356867.png)](https://discord.gg/pycord)
 
