@@ -1,6 +1,6 @@
 ## I'm a knowledgeable Python programmer.
 
-😱 I'm working on too many projects at the moment...
+😱 I'm working on many projects at the moment...
 
 
 <br>
